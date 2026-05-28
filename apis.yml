@@ -1,0 +1,32 @@
+aid: tokopedia
+name: Tokopedia
+description: "Tokopedia's Official API for integration of various services from Tokopedia"
+url: https://developer.tokopedia.com/openapi/guide/#/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Shopping"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Shopping
+  - Public APIs
+apis:
+  - name: Tokopedia
+    description: "Tokopedia's Official API for integration of various services from Tokopedia"
+    humanURL: https://developer.tokopedia.com/openapi/guide/#/
+    baseURL: https://developer.tokopedia.com/openapi/guide/#/
+    tags:
+      - Shopping
+    properties:
+      - type: Documentation
+        url: https://developer.tokopedia.com/openapi/guide/#/
+common:
+  - type: Website
+    url: https://developer.tokopedia.com/openapi/guide/#/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
