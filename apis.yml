@@ -41,7 +41,6 @@ apis:
   - name: Tokopedia
     description: "Tokopedia's Official API for integration of various services from Tokopedia"
     humanURL: https://developer.tokopedia.com/openapi/guide/#/
-    baseURL: https://developer.tokopedia.com/openapi/guide/#/
     tags:
       - Shopping
     properties:
