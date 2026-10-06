@@ -29,7 +29,7 @@ description: "Tokopedia's Official API for integration of various services from 
 url: https://developer.tokopedia.com/openapi/guide/#/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Shopping"
 x-tier: 3
@@ -47,6 +47,8 @@ apis:
       - type: Documentation
         url: https://developer.tokopedia.com/openapi/guide/#/
 common:
+  - url: https://partner.tiktokshop.com/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/tokopedia-domain-security.yml
   - type: Website
